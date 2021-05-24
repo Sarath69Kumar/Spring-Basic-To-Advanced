@@ -1,75 +1,25 @@
-# Spring Basic about beans and annotations.
+#Spring boot
 
-Run the main program.
+1.
 
-Described about annotations and its use inside the class.
+![image](https://user-images.githubusercontent.com/59145492/119324068-05e96000-bc9d-11eb-9136-d28ea9ad87b6.png)
 
+2.
 
------------
-Create Maven Project
+Name: HelloSpringBoot
+Group: org.sarath69kumar
+Artifact: HelloSpringBoot
+Package: org.sarath69kumar.helloSpringBoot
 
-1. File/New/Other -> Maven -> Maven Project
+![image](https://user-images.githubusercontent.com/59145492/119324507-890ab600-bc9d-11eb-8d9a-3d547e42bf3f.png)
 
-or New -> Maven Project
-
- ![image](https://user-images.githubusercontent.com/59145492/119321489-53b09900-bc9a-11eb-8e1a-7834f86c5387.png)
-
-
----------
-
-2. 
-
- ![image](https://user-images.githubusercontent.com/59145492/119321562-662ad280-bc9a-11eb-9d7e-fce22567d044.png)
-
- 
-select next.
-
----------
 
 3.
 
+Under Available, type "web"
+It will show all web relateds
+In that under (web -> Spring web)
 
- ![image](https://user-images.githubusercontent.com/59145492/119321609-73e05800-bc9a-11eb-8c2b-193726e1ac00.png)
+![image](https://user-images.githubusercontent.com/59145492/119324780-d424c900-bc9d-11eb-9b40-8553d928c6f4.png)
 
-
-check you selected as I did then Select Next
-
-----------
-
-4.
-
-![image](https://user-images.githubusercontent.com/59145492/119321837-b0ac4f00-bc9a-11eb-8942-beaa822a9ea0.png)
-
-Click Finish
-
-------------
-
-5.
-
-![image](https://user-images.githubusercontent.com/59145492/119322001-d8031c00-bc9a-11eb-89c5-5b18a2cc8ba3.png)
-
-
-Delete the java file under the package src/main/java and src/test/java
-
------------
-
-6.
-
-Go to properties
-
-![image](https://user-images.githubusercontent.com/59145492/119322178-05e86080-bc9b-11eb-896d-fd61a8b8043f.png)
-
-
-select JAVA compiler
-
-under JDK Complience
---> uncheck first check box
---> set compliance to 1.8
-
-![image](https://user-images.githubusercontent.com/59145492/119322619-68416100-bc9b-11eb-989c-a8d0d716eb2c.png)
-
-click apply and close.
-
-Doneeehh!!!!
-
-
+finaly give finish.
