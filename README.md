@@ -13,3 +13,5 @@ Creaating Spring apps
 
 
    https://stackoverflow.com/questions/44320200/what-template-engine-should-i-use-in-spring-mvc
+   
+7. SpringApacheTiles is a format of making more than two web pages to form in a single sheet. Eg, consider we have four pages like header.jsp, menu.jsp, body.jsp, footer.jsp. Here we no need to make tags inside each page. Instead we are creating a tiles view to make the page the get the desired form structure.
