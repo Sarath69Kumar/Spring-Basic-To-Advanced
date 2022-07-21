@@ -1,12 +1,13 @@
-package org.sarath69kumar.helloSpringBoot;
+package com.sarath.student.dal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloSpringBootApplication {
+public class StudentdalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloSpringBootApplication.class, args);
+		SpringApplication.run(StudentdalApplication.class, args);
 	}
+
 }
